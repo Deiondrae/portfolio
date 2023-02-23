@@ -1,4 +1,4 @@
-function About () {
+function About() {
     return(
         <section id="about">
             <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
@@ -8,7 +8,7 @@ function About () {
                         <br className="hidden lg:inline-block"></br>
                         Fullstack Dev
                     </h1>
-                    <p className="mb-8 loading-relaxed">
+                    <p className="mb-8 leading-relaxed">
                     Full Stack Developer looking to leverage my background in psychology to build more intuitive user
 experiences on the web. Certificate in Web Development from the University of Toronto with experience
 in full stack - MERN (MongoDb, Express, React and Node.js). Quick study and an adept and capable
