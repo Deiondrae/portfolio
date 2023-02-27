@@ -50,10 +50,10 @@ export const projects = [
     },
   ];
 export const skills = [
-  "Javascript",
-  "Html/Css",
+  "JavaScript",
+  "HTML/CSS",
   "SQL",
-  "GraphQl",
+  "GraphQL",
   "React",
   "Node",
   "Express.js",
